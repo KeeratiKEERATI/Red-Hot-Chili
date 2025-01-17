@@ -1,7 +1,9 @@
 # Red-Hot-Chili
 
 -651310108 จีรวิชญ์ รุจิระวิทยา : Game Developer https://github.com/Nongp111
+
 -651310128 วรัญญู กิจบำเรอ : 2D/3D Artist https://github.com/Kitsip
+
 -651310352 กีรติ เกตุวงษ์ : Game Designer https://github.com/KeeratiKEERATI
 
 
