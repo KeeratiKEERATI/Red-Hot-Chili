@@ -1,5 +1,13 @@
 # Red-Hot-Chili
 
+
+![pixil-frame-0](https://github.com/user-attachments/assets/9fd015bd-0bb1-4e3b-ae46-210a9fe09d46)
+
+
+
+
+
+
 -651310108 จีรวิชญ์ รุจิระวิทยา : Game Developer https://github.com/Nongp111
 
 -651310128 วรัญญู กิจบำเรอ : 2D/3D Artist https://github.com/Kitsip
